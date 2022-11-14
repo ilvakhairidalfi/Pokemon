@@ -1,0 +1,12 @@
+Tampilan Pokedex pakai PokeAPI
+>> HTML, CSS, JavaScript
+
+1. Buat folder > buat file index.html, .css, dan .js
+2. di html ketik "html:5", maka akan muncul tampilan simple html
+   untuk ubah judul, di bagian <title></title> ubah judulnya
+3. sematkan link css ("link:css") untuk menghubungkan dg css
+4. di bagian body, tambahkan "<script scr="app.js"></script>" untuk menghubungkan dengan
+   js, taro paling bawah
+5. untuk memberikan judul di html, di body tambahkan "<h1> (judul) </h1>
+6. di js boleh tambahkan tampilan pakai "console.log(".."); untuk judul di inspect html
+7. di css, tambahkan "body{color: ... ;} >> memberi warna pada bagian body di html
